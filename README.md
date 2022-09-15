@@ -20,5 +20,5 @@ These are some of the major languages that I use or have worked on in the past:
 
 ## Let's Talk :handshake:
 
-<a href="https://www.linkedin.com/in/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="https://www.youtube.com/channel/UCRIV6ndalc_mfIdAN_T2sgA"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Youtube_colored_svg-128.png" width="40"></a>|<a href="mailto:EMAIL@gmail.com"><img src="https://image.flaticon.com/icons/svg/281/281769.svg" width="40"></a>
-|--|--|--|
+<a href="https://www.linkedin.com/in/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="mailto:EMAIL@gmail.com"><img src="https://image.flaticon.com/icons/svg/281/281769.svhttps://cdn-icons-png.flaticon.com/512/74/74910.png" width="40"></a>
+|--|--|
