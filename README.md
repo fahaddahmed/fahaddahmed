@@ -14,7 +14,7 @@ These are some of the major languages that I use or have worked on in the past:
 
 **Tools**
 
-<img title="Mac" alt="Mac" width="40px" src="[https://s3.amazonaws.com/ohmyzsh/oh-my-zsh-logo.png](https://raw.githubusercontent.com/github/explore/master/topics/macos/macos.png)">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">
+<img title="Mac" alt="Mac" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/macos/macos.png">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">
 |--|--|--|
 <br>
 
