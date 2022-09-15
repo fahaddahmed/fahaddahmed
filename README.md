@@ -1,7 +1,7 @@
 
 <h1>Hi There, I am Fahad Ahmed <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-I'm a **High School Studentr**, graduating in **2023** from Milton, Ontario.
+I'm a **High School Student**, graduating in **2023** from Milton, Ontario.
 
 ## Skill Set :muscle:
 
