@@ -9,26 +9,14 @@ These are some of the major languages that I use or have worked on in the past:
 
 **Programming Languages**
 
-<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
-|
-<img alt="JavaScript" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">
-|
-<img title="C#" alt="C#" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png">
-|
-<img title="HTML" alt="HTML" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png">
-|
-<img title="CSS" alt="CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png">
+<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="JavaScript" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img title="C#" alt="C#" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png">|<img title="HTML" alt="HTML" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png">|<img title="CSS" alt="CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png">
 
-|--|--|--|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
 
 **Tools**
 
-<img title="Mac" alt="Mac" width="40px" src="[https://s3.amazonaws.com/ohmyzsh/oh-my-zsh-logo.png](https://raw.githubusercontent.com/github/explore/master/topics/macos/macos.png)">
-|
-<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">
-|
-<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">
-|--|--|--|--|--|
+<img title="Mac" alt="Mac" width="40px" src="[https://s3.amazonaws.com/ohmyzsh/oh-my-zsh-logo.png](https://raw.githubusercontent.com/github/explore/master/topics/macos/macos.png)">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
 <br>
 
 ## Let's Talk :handshake:
