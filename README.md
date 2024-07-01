@@ -1,7 +1,7 @@
 
 <h1>Hi There, I am Fahad Ahmed <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-I'm a First Year **Computer Science** student, graduating in **2027**.
+I'm a Second Year **Computer Science** student, graduating in **2027**.
 
 ## Skill Set :muscle:
 
