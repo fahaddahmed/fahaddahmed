@@ -1,7 +1,6 @@
 
 <img  src="https://content.mycutegraphics.com/graphics/star/white-rounded-corner-star.png" width="20px"></h1> <h1>Hi There, I am Fahad Ahmed
-  
-I'm a Second Year **Computer Science** student, graduating in **2027**.
+  I'm a Second Year **Computer Science** student, graduating in **2027**.
 
 ## <img  src="https://content.mycutegraphics.com/graphics/star/white-rounded-corner-star.png" width="20px"></h1> Skill Set
 
