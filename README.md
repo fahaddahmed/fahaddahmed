@@ -14,8 +14,8 @@ These are some of the major languages that I use or have worked on in the past:
 
 **Tools**
 
-<img title="Mac" alt="Mac" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/macos/macos.png">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">
-|--|--|--|
+<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"> | <img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"> | <img title="React" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"> | <img title="Node.js" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"> | <img title="PostgreSQL" alt="PostgreSQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png"> | <img title="Flask" alt="Flask" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png"> | <img title="redis" alt="redis" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/redis/redis.png"> | <img title="Mac" alt="Mac" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/macos/macos.png">
+|--|--|--|--|--|--|--|--|
 <br>
 
 ## Let's Talk :handshake:
