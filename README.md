@@ -1,8 +1,9 @@
 
-<img  src="https://content.mycutegraphics.com/graphics/star/white-rounded-corner-star.png" width="20px"></h1> <h1>Hi There, I am Fahad Ahmed
-  I'm a Second Year **Computer Science** student, graduating in **2027**.
+<h1> <img  src="https://static.vecteezy.com/system/resources/previews/025/094/086/non_2x/white-heart-sign-isolated-on-transparent-background-valentines-day-icon-hand-drawn-heart-shape-world-heart-day-concept-love-icon-illustration-free-png.png" width="30px"> Hi There, I am Fahad Ahmed <img  src="https://static.vecteezy.com/system/resources/previews/025/094/086/non_2x/white-heart-sign-isolated-on-transparent-background-valentines-day-icon-hand-drawn-heart-shape-world-heart-day-concept-love-icon-illustration-free-png.png" width="30px"> </h1>
 
-## <img  src="https://content.mycutegraphics.com/graphics/star/white-rounded-corner-star.png" width="20px"></h1> Skill Set
+I'm a Second Year **Computer Science** student, graduating in **2027**.
+
+## <img  src="https://static.vecteezy.com/system/resources/previews/025/094/086/non_2x/white-heart-sign-isolated-on-transparent-background-valentines-day-icon-hand-drawn-heart-shape-world-heart-day-concept-love-icon-illustration-free-png.png" width="20px"> Skill Set <img  src="https://static.vecteezy.com/system/resources/previews/025/094/086/non_2x/white-heart-sign-isolated-on-transparent-background-valentines-day-icon-hand-drawn-heart-shape-world-heart-day-concept-love-icon-illustration-free-png.png" width="20px">
 
 These are some of the major languages that I use or have worked on in the past:
 
