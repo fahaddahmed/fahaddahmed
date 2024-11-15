@@ -3,7 +3,7 @@
 
 I'm a Second Year **Computer Science** student, graduating in **2027**.
 
-## Skill Set <img  src="[https://media1.giphy.com/media/vhCqBMZoCxec0EoQZZ/giphy.gif?cid=6c09b952tgfzl99ts6lw84cxksx614qdcszgemif119dhbcf&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s](https://content.mycutegraphics.com/graphics/star/white-rounded-corner-star.png)" width="30px"></h1>
+## Skill Set <img  src="https://content.mycutegraphics.com/graphics/star/white-rounded-corner-star.png" width="30px"></h1>
 
 These are some of the major languages that I use or have worked on in the past:
 
