@@ -18,7 +18,7 @@ These are some of the major languages that I use or have worked on in the past:
 |--|--|--|--|--|--|--|--|
 <br>
 
-## Let's Talk :handshake:
+## <img  src="https://static.vecteezy.com/system/resources/previews/025/094/086/non_2x/white-heart-sign-isolated-on-transparent-background-valentines-day-icon-hand-drawn-heart-shape-world-heart-day-concept-love-icon-illustration-free-png.png" width="20px"> Let's Talk <img  src="https://static.vecteezy.com/system/resources/previews/025/094/086/non_2x/white-heart-sign-isolated-on-transparent-background-valentines-day-icon-hand-drawn-heart-shape-world-heart-day-concept-love-icon-illustration-free-png.png" width="20px">
 
 <a href="https://www.linkedin.com/in/fahad-ahmdd/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="mailto:fahadaahmed8@gmail.com"><img src="https://user-images.githubusercontent.com/86669668/171339003-ef5b5c96-eac8-478c-a9cc-318ca9477fce.gif" width="40"></a>
 |--|--|
