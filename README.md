@@ -1,5 +1,18 @@
 
-<h1>Hi There, I am Fahad Ahmed 👋</h1>
+<h1>
+  <img 
+    title="Github" 
+    alt="Github logo" 
+    width="40px" 
+    src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif">
+  Hi There, I am Fahad Ahmed
+  <img 
+    title="Github" 
+    alt="Github logo" 
+    width="40px" 
+    src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif">
+</h1>
+
 
 I'm a Second Year **Computer Science** student, graduating in **2027**.
 
@@ -18,7 +31,9 @@ These are some of the major languages that I use or have worked on in the past:
 |--|--|--|--|--|--|--|--|
 <br>
 
-## Let's Talk
+<h2>
+  Let's Talk
+</h2>
 
 <a href="https://www.linkedin.com/in/fahad-ahmdd/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="mailto:fahadaahmed8@gmail.com"><img src="https://user-images.githubusercontent.com/86669668/171339003-ef5b5c96-eac8-478c-a9cc-318ca9477fce.gif" width="40"></a>
 |--|--|
